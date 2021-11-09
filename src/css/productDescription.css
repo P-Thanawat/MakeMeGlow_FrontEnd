@@ -1,0 +1,14 @@
+.productDescriptionPage .accordion-button {
+  background-color: #fff;
+}
+.productDescriptionPage .accordion-button:not(.collapsed) {
+  background-color: #fff;
+  color: black;
+}
+.productDescriptionPage .accordion-button::after {
+  background-image: url('https://cdn-icons-png.flaticon.com/512/1237/1237946.png');
+}
+
+.productDescriptionPage .accordion-button:not(.collapsed)::after {
+  background-image: url('https://cdn-icons-png.flaticon.com/512/447/447047.png');
+}

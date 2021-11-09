@@ -1,0 +1,18 @@
+.scroll-div {
+  width: 50vw;
+  height: 45vh;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.scroll-bar::-webkit-scrollbar {
+  width: 0.5vw;
+  border-radius: 15vw;
+  background-color: #ffd6dc;
+}
+
+.scroll-bar::-webkit-scrollbar-thumb {
+  height: 1px;
+  background-color: #adadadad;
+  border-radius: 15vw;
+}

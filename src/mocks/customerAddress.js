@@ -1,0 +1,26 @@
+export const customerAddress = [
+  {
+    id: '1',
+    firstName: 'JOHN',
+    lastName: 'DOE',
+    phone: '099-999-9999',
+    address1: '12/345 MMG VILLA',
+    address2: 'LADPRAO ROAD',
+    province: 'BANGKOK',
+    district: 'WANGTHONGLANG',
+    postalCode: '10310',
+    isMain: true,
+  },
+  {
+    id: '2',
+    firstName: 'JOHN',
+    lastName: 'WICK',
+    phone: '099-999-9999',
+    address1: '12/345 MMG VILLA',
+    address2: 'LADPRAO ROAD',
+    province: 'BANGKOK',
+    district: 'WANGTHONGLANG',
+    postalCode: '10310',
+    isMain: false,
+  },
+];

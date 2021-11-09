@@ -1,0 +1,11 @@
+.DragAndDrop #click_drag_and_drop:hover {
+  color: #000000 !important;
+  opacity: 100% !important;
+  cursor: pointer;
+}
+
+.DragAndDrop .onDragOver {
+  color: #000000 !important;
+  opacity: 100% !important;
+  cursor: pointer;
+}
